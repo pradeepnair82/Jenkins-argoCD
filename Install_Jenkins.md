@@ -1,7 +1,7 @@
 # Lab: Install Jenkins on an Ubuntu 24.04 EC2 Instance
 
 ## Prerequisites
-- **EC2 Instance**: Ubuntu 24.04 installedddd.
+- **EC2 Instance**: Ubuntu 24.04 installedd.
 - **Security Group**: Ensure ports `8080` (Jenkins) and `22` (SSH) are open.
 - **Root or sudo access**.
 
